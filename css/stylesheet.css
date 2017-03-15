@@ -1,0 +1,18 @@
+object:focus {
+    outline: none;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.header, .push {
+    height: 142px; /* .push must be the same height as .footer */
+    border: solid black;
+}
+
+.footer, .push {
+    height: 142px; /* .push must be the same height as .footer */
+    border-top: solid black;
+}
